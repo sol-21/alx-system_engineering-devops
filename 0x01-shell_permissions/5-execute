@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +X hello.sh
+chmod go-rw 5-execute
