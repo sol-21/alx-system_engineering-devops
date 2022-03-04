@@ -1,5 +1,2 @@
-#1bin/bash 
-mv /tmp/betty /tmp/my_first_directory 
-cat > 7-movethatfile
 #!/bin/bash 
-mv /tmp/betty /tmp/my_first_directory 
+mv /tmp/betty /tmp/my_first_directory
