@@ -1,2 +1,2 @@
 #!/bin/bash 
-pwd 
+echo "$(cd "$(0x00-shell_basics "$1")" ;pwd -p)/$(0-current_working_directory "$1")" 
