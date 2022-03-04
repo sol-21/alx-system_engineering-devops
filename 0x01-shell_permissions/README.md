@@ -1,2 +1,2 @@
 #!/bin/bash
-create file
+permissions 
