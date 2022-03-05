@@ -1,5 +1,2 @@
 #!/bin/bash
-chmod 753
-cat > 9-John_Doe
-#!/bin/bash
 chmod 753 hello
